@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #212529 !important;
 }
-
+.bg
+{
+  background-color: #4799eb;
+}
+.bg-2
+{
+  color: #aaa;
+  background-color: #32383e;
+  border-color: #32383e;
+  width: 60px;
+  /* height:40px; */
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+@keyframes asmaa {
+
 }
